@@ -21,7 +21,6 @@
 
 #激活流程
 一、将 SIM 卡插入手机，入网后稍等片刻，会收到一条来自 43432 的短信，点击短信中的链接进入激活页面。
-![Image](https://github.com/user-attachments/assets/d5df4e30-d388-4c59-841d-89ed4359a444)
 
 二、如在上一步中未收到短信，请手动打开[ https://www.giffgaff.com/activate](https://www.giffgaff.com/activate) ，并输入SIM卡正面的6位激活码进行激活。
 
